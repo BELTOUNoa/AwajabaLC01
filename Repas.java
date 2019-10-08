@@ -19,7 +19,7 @@ class Repas{
 			this.numero = num;
 		}
 		
-		public LocalDate getNumero(){
+		public LocalDate getDate(){
 			return this.date;
 		}
 		
